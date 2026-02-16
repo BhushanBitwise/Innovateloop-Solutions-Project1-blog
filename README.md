@@ -75,7 +75,7 @@ Built with clean architecture, JWT authentication, public comment system, and po
 ###  Page 4
 ![Post Details](screenshots/home4.png)
 
-###  Page %
+###  Page 5
 ![Comment System](screenshots/home5.png)
 
 ---
