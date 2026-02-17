@@ -1,4 +1,4 @@
-# 📝 Mini Medium Clone - MERN Blogging Platform
+#  Mini Medium Clone - MERN Blogging Platform
 
 A fully functional, production-ready **MERN Stack Blogging Platform** 
 
@@ -6,9 +6,9 @@ Built with clean architecture, JWT authentication, public comment system, and po
 
 ---
 
-## 🚀 Live Features
+##  Live Features
 
-### 👤 Authentication
+###  Authentication
 - User Registration
 - User Login
 - JWT Authentication
@@ -16,27 +16,27 @@ Built with clean architecture, JWT authentication, public comment system, and po
 - Secure Token Handling
 - Pagination
 
-### 📝 Blog Posts
+###  Blog Posts
 - Create Post (Logged-in users)
 - Edit Own Post
 - Delete Own Post
 - Public Post Viewing
 - Author Name & Created Date
 
-### 💬 Public Comment System
+###  Public Comment System
 - Anyone can comment (Guest allowed)
 - Name required for comment
 - All comments are public
 - Only Post Owner can delete comments
 
-### 📊 Dashboard
+###  Dashboard
 - Shows logged-in user's posts
 - Edit/Delete functionality
 - Create new post
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -61,7 +61,7 @@ Built with clean architecture, JWT authentication, public comment system, and po
 
 ---
 
-## 📸 Application Screenshots
+##  Application Screenshots
 
 ###  Page 1
 ![Home Page](screenshots/home1.png)
